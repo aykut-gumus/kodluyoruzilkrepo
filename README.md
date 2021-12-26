@@ -6,7 +6,7 @@
 
 #### Öncelikle projeyi clonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-[git clone] (https://github.com/AykutGm/kodluyoruzilkrepo.git)
+![git clone] (https://github.com/AykutGm/kodluyoruzilkrepo.git)
 
 ## Usage
 
