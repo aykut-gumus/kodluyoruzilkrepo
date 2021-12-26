@@ -12,8 +12,6 @@
 
 #### Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-#### Linux için:
-
 ## Contributing
 
 #### Pull requestler kabul edilir. Büyük değişiklikler için, lütfen neyi değiştirmek istediğinizi tartışmak üzere bir konu açınız.
